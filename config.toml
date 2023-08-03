@@ -1,4 +1,4 @@
-baseURL = "https://<YOUR-GITHUB-USERNAME>.github.io/DigitalGardenPublic/"
+baseURL = "https://ohmygaugh-crypto.github.io/DigitalGardenPublic/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
