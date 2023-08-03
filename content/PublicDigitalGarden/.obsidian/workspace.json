@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b2e1d4ace0bec801",
+        "id": "e69215e1fd55b9ee",
         "type": "tabs",
         "children": [
           {
-            "id": "b26a9a8b58c9128e",
+            "id": "8351393722ffacb7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,7 +16,7 @@
             }
           },
           {
-            "id": "acc2298db0b08d1c",
+            "id": "5dfe1fb09b0ba20f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,12 +28,12 @@
             }
           },
           {
-            "id": "54a2369e9abbaa1c",
+            "id": "5bd1a66a433a5ef4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New test.md",
+                "file": "Wow another one.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New test.md",
+                "file": "Wow another one.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New test.md",
+                "file": "Wow another one.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New test.md"
+                "file": "Wow another one.md"
               }
             }
           }
@@ -167,9 +167,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54a2369e9abbaa1c",
+  "active": "5bd1a66a433a5ef4",
   "lastOpenFiles": [
     "Hello world.md",
+    "Wow another one.md",
+    "another one.md",
+    "Untitled.md",
+    "Templates",
     "New test.md"
   ]
 }
